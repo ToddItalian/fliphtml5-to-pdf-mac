@@ -1,0 +1,36 @@
+====================================================
+FlipHTML5 to PDF (macOS One-Click App)
+====================================================
+
+WHAT IT DOES:
+Converts public FlipHTML5 books into clean, multi-page PDFs saved directly to your Desktop—with a live progress bar and automatic cleanup. Uses only built-in macOS tools (no Python, Node.js, or extra installs needed).
+
+----------------------------------------------------
+ONE-TIME SETUP (TAKES 30 SECONDS)
+----------------------------------------------------
+
+STEP 1: Enable Safari Apple Events (Required Once)
+1. Open Safari.
+2. In the top menu bar, click Safari > Settings... (or press Cmd + ,).
+3. Go to the "Advanced" tab and check "Show features for web developers".
+4. In the top menu bar, click Develop > Allow JavaScript from Apple Events (confirm with your Mac password or Touch ID).
+
+STEP 2: Bypass the Unidentified Developer Warning (First Launch Only)
+Because this is an independent free utility not signed with a paid Apple Developer certificate, macOS will block a normal double-click the first time:
+1. Drag "FlipHTML5_Downloader.app" to your Desktop or Applications folder.
+2. Right-click (or Control-click) the app icon and click "Open".
+3. Click "Open" again in the popup confirmation window.
+(After doing this once, a normal double-click will always work.)
+
+----------------------------------------------------
+HOW TO USE
+----------------------------------------------------
+1. Double-click "FlipHTML5_Downloader.app".
+2. Paste any public FlipHTML5 link and click "Download PDF".
+3. Safari will briefly open and close the link to read the page list, then a progress bar will show each page downloading and converting.
+4. When finished, your titled PDF will appear right on your Desktop.
+
+----------------------------------------------------
+DISCLAIMER
+----------------------------------------------------
+Intended strictly for personal offline reading, backing up your own publications, public-domain works, or materials you have permission to save. Please respect copyright laws and creator rights.
